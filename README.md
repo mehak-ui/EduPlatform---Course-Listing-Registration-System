@@ -1,4 +1,5 @@
 # 🎓 EduPlatform - Course Listing & Registration System
+Frontend Developer | React, TypeScript, Tailwind CSS |
 
 A modern, responsive web application for browsing and registering for online courses. Built with React, TypeScript, and Tailwind CSS, featuring beautiful animations, real-time search, and an intuitive user experience.
 
