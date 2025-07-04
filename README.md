@@ -47,6 +47,30 @@ https://meh-clrp-8fd411.netlify.app/
 - **Deployment**: Netlify
 - **Code Quality**: ESLint with TypeScript support
 
+  ## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd course-listing-system
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in browser**
+   ```
+   http://localhost:5173
+   ```
+
+
 ## 🏗️ Project Structure
 
 ```
